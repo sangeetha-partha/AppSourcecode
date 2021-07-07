@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MEDICAL">
+</Property><Property Name="Solution File" Value="G:\PROJECT\Backup\TATVA\2013\MEDICAL\MEDICAL.sln">
+</Property><Property Name="User Options File" Value="G:\PROJECT\Backup\TATVA\2013\MEDICAL\MEDICAL.suo">
+</Property><Property Name="Date" Value="27 March, 2016">
+</Property><Property Name="Time" Value="21:33 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="MEDICAL.sln" Description="File successfully backed up as G:\PROJECT\Backup\TATVA\2013\MEDICAL\Backup\MEDICAL.sln">
+</Event><Event ErrorLevel="0" Project="" Source="MEDICAL.suo" Description="File successfully backed up as G:\PROJECT\Backup\TATVA\2013\MEDICAL\Backup\MEDICAL.suo">
+</Event><Event ErrorLevel="0" Project="MEDICAL" Source="MEDICAL\MEDICAL.csproj" Description="Project file successfully backed up as G:\PROJECT\Backup\TATVA\2013\MEDICAL\Backup\MEDICAL\MEDICAL.csproj">
+</Event><Event ErrorLevel="0" Project="MEDICAL" Source="MEDICAL\ADDItem.cs" Description="File successfully backed up as G:\PROJECT\Backup\TATVA\2013\MEDICAL\Backup\MEDICAL\ADDItem.cs">
+</Event><Event ErrorLevel="0" Project="MEDICAL" Source="MEDICAL\ADDItem.Designer.cs" Description="File successfully backed up as G:\PROJECT\Backup\TATVA\2013\MEDICAL\Backup\MEDICAL\ADDItem.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MEDICAL" Source="MEDICAL\Client.cs" Description="File successfully backed up as G:\PROJECT\Backup\TATVA\2013\MEDICAL\Backup\MEDICAL\Client.cs">
+</Event><Event ErrorLevel="0" Project="MEDICAL" Source="MEDICAL\Client.Designer.cs" Description="File successfully backed up as G:\PROJECT\Backup\TATVA\2013\MEDICAL\Backup\MEDICAL\Client.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MEDICAL" Source="MEDICAL\Company.cs" Description="File successfully backed up as G:\PROJECT\Backup\TATVA\2013\MEDICAL\Backup\MEDICAL\Company.cs">
+</Event><Event ErrorLevel="0" Project="MEDICAL" Source="MEDICAL\Company.Designer.cs" Description="File successfully backed up as G:\PROJECT\Backup\TATVA\2013\MEDICAL\Backup\MEDICAL\Company.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MEDICAL" Source="MEDICAL\DS\DS_CLIENT.Designer.cs" Description="File successfully backed up as G:\PROJECT\Backup\TATVA\2013\MEDICAL\Backup\MEDICAL\DS\DS_CLIENT.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MEDICAL" Source="MEDICAL\DS\DS_COMPANY.Designer.cs" Description="File successfully backed up as G:\PROJECT\Backup\TATVA\2013\MEDICAL\Backup\MEDICAL\DS\DS_COMPANY.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MEDICAL" Source="MEDICAL\DS\DS_ITEM.Designer.cs" Description="File successfully backed up as G:\PROJECT\Backup\TATVA\2013\MEDICAL\Backup\MEDICAL\DS\DS_ITEM.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MEDICAL" Source="MEDICAL\DS\DS_SALES.Designer.cs" Description="File successfully backed up as G:\PROJECT\Backup\TATVA\2013\MEDICAL\Backup\MEDICAL\DS\DS_SALES.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MEDICAL" Source="MEDICAL\DS\DS_SOUT.Designer.cs" Description="File successfully backed up as G:\PROJECT\Backup\TATVA\2013\MEDICAL\Backup\MEDICAL\DS\DS_SOUT.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MEDICAL" Source="MEDICAL\DS\DS_STOCK.Designer.cs" Description="File successfully backed up as G:\PROJECT\Backup\TATVA\2013\MEDICAL\Backup\MEDICAL\DS\DS_STOCK.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MEDICAL" Source="MEDICAL\DS\DS_USER.Designer.cs" Description="File successfully backed up as G:\PROJECT\Backup\TATVA\2013\MEDICAL\Backup\MEDICAL\DS\DS_USER.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MEDICAL" Source="MEDICAL\Form1.cs" Description="File successfully backed up as G:\PROJECT\Backup\TATVA\2013\MEDICAL\Backup\MEDICAL\Form1.cs">
+</Event><Event ErrorLevel="0" Project="MEDICAL" Source="MEDICAL\Form1.Designer.cs" Description="File successfully backed up as G:\PROJECT\Backup\TATVA\2013\MEDICAL\Backup\MEDICAL\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MEDICAL" Source="MEDICAL\Program.cs" Description="File successfully backed up as G:\PROJECT\Backup\TATVA\2013\MEDICAL\Backup\MEDICAL\Program.cs">
+</Event><Event ErrorLevel="0" Project="MEDICAL" Source="MEDICAL\Properties\AssemblyInfo.cs" Description="File successfully backed up as G:\PROJECT\Backup\TATVA\2013\MEDICAL\Backup\MEDICAL\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="MEDICAL" Source="MEDICAL\Properties\Resources.Designer.cs" Description="File successfully backed up as G:\PROJECT\Backup\TATVA\2013\MEDICAL\Backup\MEDICAL\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MEDICAL" Source="MEDICAL\Properties\Settings.Designer.cs" Description="File successfully backed up as G:\PROJECT\Backup\TATVA\2013\MEDICAL\Backup\MEDICAL\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MEDICAL" Source="MEDICAL\SELL.cs" Description="File successfully backed up as G:\PROJECT\Backup\TATVA\2013\MEDICAL\Backup\MEDICAL\SELL.cs">
+</Event><Event ErrorLevel="0" Project="MEDICAL" Source="MEDICAL\SELL.Designer.cs" Description="File successfully backed up as G:\PROJECT\Backup\TATVA\2013\MEDICAL\Backup\MEDICAL\SELL.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MEDICAL" Source="MEDICAL\UserMst.cs" Description="File successfully backed up as G:\PROJECT\Backup\TATVA\2013\MEDICAL\Backup\MEDICAL\UserMst.cs">
+</Event><Event ErrorLevel="0" Project="MEDICAL" Source="MEDICAL\UserMst.Designer.cs" Description="File successfully backed up as G:\PROJECT\Backup\TATVA\2013\MEDICAL\Backup\MEDICAL\UserMst.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MEDICAL" Source="MEDICAL\app.config" Description="File successfully backed up as G:\PROJECT\Backup\TATVA\2013\MEDICAL\Backup\MEDICAL\app.config">
+</Event><Event ErrorLevel="0" Project="MEDICAL" Source="MEDICAL\DS\DS_CLIENT.xsc" Description="File successfully backed up as G:\PROJECT\Backup\TATVA\2013\MEDICAL\Backup\MEDICAL\DS\DS_CLIENT.xsc">
+</Event><Event ErrorLevel="0" Project="MEDICAL" Source="MEDICAL\DS\DS_CLIENT.xsd" Description="File successfully backed up as G:\PROJECT\Backup\TATVA\2013\MEDICAL\Backup\MEDICAL\DS\DS_CLIENT.xsd">
+</Event><Event ErrorLevel="0" Project="MEDICAL" Source="MEDICAL\DS\DS_CLIENT.xss" Description="File successfully backed up as G:\PROJECT\Backup\TATVA\2013\MEDICAL\Backup\MEDICAL\DS\DS_CLIENT.xss">
+</Event><Event ErrorLevel="0" Project="MEDICAL" Source="MEDICAL\DS\DS_COMPANY.xsc" Description="File successfully backed up as G:\PROJECT\Backup\TATVA\2013\MEDICAL\Backup\MEDICAL\DS\DS_COMPANY.xsc">
+</Event><Event ErrorLevel="0" Project="MEDICAL" Source="MEDICAL\DS\DS_COMPANY.xsd" Description="File successfully backed up as G:\PROJECT\Backup\TATVA\2013\MEDICAL\Backup\MEDICAL\DS\DS_COMPANY.xsd">
+</Event><Event ErrorLevel="0" Project="MEDICAL" Source="MEDICAL\DS\DS_COMPANY.xss" Description="File successfully backed up as G:\PROJECT\Backup\TATVA\2013\MEDICAL\Backup\MEDICAL\DS\DS_COMPANY.xss">
+</Event><Event ErrorLevel="0" Project="MEDICAL" Source="MEDICAL\DS\DS_ITEM.xsc" Description="File successfully backed up as G:\PROJECT\Backup\TATVA\2013\MEDICAL\Backup\MEDICAL\DS\DS_ITEM.xsc">
+</Event><Event ErrorLevel="0" Project="MEDICAL" Source="MEDICAL\DS\DS_ITEM.xsd" Description="File successfully backed up as G:\PROJECT\Backup\TATVA\2013\MEDICAL\Backup\MEDICAL\DS\DS_ITEM.xsd">
+</Event><Event ErrorLevel="0" Project="MEDICAL" Source="MEDICAL\DS\DS_ITEM.xss" Description="File successfully backed up as G:\PROJECT\Backup\TATVA\2013\MEDICAL\Backup\MEDICAL\DS\DS_ITEM.xss">
+</Event><Event ErrorLevel="0" Project="MEDICAL" Source="MEDICAL\DS\DS_SALES.xsc" Description="File successfully backed up as G:\PROJECT\Backup\TATVA\2013\MEDICAL\Backup\MEDICAL\DS\DS_SALES.xsc">
+</Event><Event ErrorLevel="0" Project="MEDICAL" Source="MEDICAL\DS\DS_SALES.xsd" Description="File successfully backed up as G:\PROJECT\Backup\TATVA\2013\MEDICAL\Backup\MEDICAL\DS\DS_SALES.xsd">
+</Event><Event ErrorLevel="0" Project="MEDICAL" Source="MEDICAL\DS\DS_SALES.xss" Description="File successfully backed up as G:\PROJECT\Backup\TATVA\2013\MEDICAL\Backup\MEDICAL\DS\DS_SALES.xss">
+</Event><Event ErrorLevel="0" Project="MEDICAL" Source="MEDICAL\DS\DS_SOUT.xsc" Description="File successfully backed up as G:\PROJECT\Backup\TATVA\2013\MEDICAL\Backup\MEDICAL\DS\DS_SOUT.xsc">
+</Event><Event ErrorLevel="0" Project="MEDICAL" Source="MEDICAL\DS\DS_SOUT.xsd" Description="File successfully backed up as G:\PROJECT\Backup\TATVA\2013\MEDICAL\Backup\MEDICAL\DS\DS_SOUT.xsd">
+</Event><Event ErrorLevel="0" Project="MEDICAL" Source="MEDICAL\DS\DS_SOUT.xss" Description="File successfully backed up as G:\PROJECT\Backup\TATVA\2013\MEDICAL\Backup\MEDICAL\DS\DS_SOUT.xss">
+</Event><Event ErrorLevel="0" Project="MEDICAL" Source="MEDICAL\DS\DS_STOCK.xsc" Description="File successfully backed up as G:\PROJECT\Backup\TATVA\2013\MEDICAL\Backup\MEDICAL\DS\DS_STOCK.xsc">
+</Event><Event ErrorLevel="0" Project="MEDICAL" Source="MEDICAL\DS\DS_STOCK.xsd" Description="File successfully backed up as G:\PROJECT\Backup\TATVA\2013\MEDICAL\Backup\MEDICAL\DS\DS_STOCK.xsd">
+</Event><Event ErrorLevel="0" Project="MEDICAL" Source="MEDICAL\DS\DS_STOCK.xss" Description="File successfully backed up as G:\PROJECT\Backup\TATVA\2013\MEDICAL\Backup\MEDICAL\DS\DS_STOCK.xss">
+</Event><Event ErrorLevel="0" Project="MEDICAL" Source="MEDICAL\DS\DS_USER.xsc" Description="File successfully backed up as G:\PROJECT\Backup\TATVA\2013\MEDICAL\Backup\MEDICAL\DS\DS_USER.xsc">
+</Event><Event ErrorLevel="0" Project="MEDICAL" Source="MEDICAL\DS\DS_USER.xsd" Description="File successfully backed up as G:\PROJECT\Backup\TATVA\2013\MEDICAL\Backup\MEDICAL\DS\DS_USER.xsd">
+</Event><Event ErrorLevel="0" Project="MEDICAL" Source="MEDICAL\DS\DS_USER.xss" Description="File successfully backed up as G:\PROJECT\Backup\TATVA\2013\MEDICAL\Backup\MEDICAL\DS\DS_USER.xss">
+</Event><Event ErrorLevel="0" Project="MEDICAL" Source="MEDICAL\Properties\Settings.settings" Description="File successfully backed up as G:\PROJECT\Backup\TATVA\2013\MEDICAL\Backup\MEDICAL\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="MEDICAL" Source="MEDICAL\ADDItem.resx" Description="File successfully backed up as G:\PROJECT\Backup\TATVA\2013\MEDICAL\Backup\MEDICAL\ADDItem.resx">
+</Event><Event ErrorLevel="0" Project="MEDICAL" Source="MEDICAL\Client.resx" Description="File successfully backed up as G:\PROJECT\Backup\TATVA\2013\MEDICAL\Backup\MEDICAL\Client.resx">
+</Event><Event ErrorLevel="0" Project="MEDICAL" Source="MEDICAL\Company.resx" Description="File successfully backed up as G:\PROJECT\Backup\TATVA\2013\MEDICAL\Backup\MEDICAL\Company.resx">
+</Event><Event ErrorLevel="0" Project="MEDICAL" Source="MEDICAL\Form1.resx" Description="File successfully backed up as G:\PROJECT\Backup\TATVA\2013\MEDICAL\Backup\MEDICAL\Form1.resx">
+</Event><Event ErrorLevel="0" Project="MEDICAL" Source="MEDICAL\Properties\Resources.resx" Description="File successfully backed up as G:\PROJECT\Backup\TATVA\2013\MEDICAL\Backup\MEDICAL\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="MEDICAL" Source="MEDICAL\SELL.resx" Description="File successfully backed up as G:\PROJECT\Backup\TATVA\2013\MEDICAL\Backup\MEDICAL\SELL.resx">
+</Event><Event ErrorLevel="0" Project="MEDICAL" Source="MEDICAL\UserMst.resx" Description="File successfully backed up as G:\PROJECT\Backup\TATVA\2013\MEDICAL\Backup\MEDICAL\UserMst.resx">
+</Event><Event ErrorLevel="0" Project="MEDICAL" Source="MEDICAL\MEDICAL.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="MEDICAL" Source="MEDICAL\MEDICAL.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="MEDICAL.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="MEDICAL.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MEDICAL" Source="MEDICAL\MEDICAL.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
