@@ -2,9 +2,7 @@ pipeline {
     
     agent any
     
-    stage{
-       
-   
+    stage{  
         
         stage('Git clone Appsource code') {
             steps {
