@@ -9,8 +9,7 @@ pipeline {
                 git credentialsId: '4f90e1bb-2653-447a-a345-4b28df60b37c', poll: true, url: 'https://github.com/sangeetha-partha/AppSourcecode/'
                 
             }
-        }
-     
+        }   
    
         
       stage('Git clone Test Automation suite') {
